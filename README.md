@@ -11,7 +11,7 @@ Design a digital controller to control traffic at an intersection of a busy main
 
 - Yellow lights on both streets must be for 4 seconds
 
-This project includes a presentation detailing the thought process and application of this implementation of a traffic light controller. [[PDF] Project 3 Presentation](/Project%203%20–%20Traffic%20Light%20Controller/Project%203%20Presentation.pdf)
+This project includes a presentation detailing the thought process and application of this implementation of a traffic light controller. [[PDF] Project 3 Presentation](/file:///C:/Users/user/Desktop/Project%203%20Presentation.pdf)
 
 ## Waveforms
 
